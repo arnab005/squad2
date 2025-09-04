@@ -1,0 +1,9 @@
+[submodule "banking"]
+	path = banking
+	url = https://github.com/arnab005/squad2
+[submodule "ecomwithmongo"]
+	path = ecomwithmongo
+	url = https://github.com/arnab005/squad2
+[submodule "delivery"]
+	path = delivery
+	url = https://github.com/arnab005/squad2
